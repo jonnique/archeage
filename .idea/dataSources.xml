@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="679227839">
+    <data-source source="LOCAL" name="Rails archeage: development" uuid="a7e9e538-effe-440c-8d9c-2ce5175c21ba">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:archeage_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails archeage: test" uuid="46677fe1-557a-4c99-87ea-4e0c695951b7">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:archeage_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails archeage: production" uuid="a39dbf08-039d-40da-b5ae-96734508a458">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:archeage_production</jdbc-url>
+      <user-name>archeage</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfebdff8dfe9dfe2dfefdfebdfeddfefdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
