@@ -1,0 +1,2 @@
+module MercsHelper
+end
